@@ -27,16 +27,19 @@ El sistema maneja cuentas predefinidas y permite **consultar saldo, retirar dine
 
 
 ## Capturas de Pantalla (Ejemplo)
-  ## Consulta de saldo
+  ### Consulta de saldo
   
 <img width="1430" height="884" alt="consultar saldo" src="https://github.com/user-attachments/assets/90b98494-2c22-428a-b74d-4350ed4e90a4" />
-  ## Depositar y Retirar
+
+  ### Depositar y Retirar
   
 <img width="1430" height="884" alt="deposito y retiro" src="https://github.com/user-attachments/assets/eccc95d8-d2b7-472d-b823-aae30d039a34" />
-  ## Transferir
+
+  ### Transferir
   
 <img width="1430" height="884" alt="transferir" src="https://github.com/user-attachments/assets/b42d1dbb-5021-4d75-930c-fac87d4e983a" />
-  ## Saldo Insuficiente
+
+  ### Saldo Insuficiente
   
 <img width="1430" height="884" alt="saldo insuficiente" src="https://github.com/user-attachments/assets/80a377ba-9309-4a00-ace7-2fa82845ba49" />
 
